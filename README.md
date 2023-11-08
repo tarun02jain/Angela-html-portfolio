@@ -1,2 +1,2 @@
 # Angela-html-portfolio
-Angela yu web d bootcamp project
+Angela yu WebD bootcamp project
